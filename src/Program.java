@@ -24,6 +24,8 @@ public class Program {
 		Scanner apk = new Scanner(System.in);
 		String a = apk.nextLine();
 		System.out.println(a);
+		
+		
 	}
 
 }
